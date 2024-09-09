@@ -1,0 +1,8 @@
+C:\Users\Kay\Dropbox\My PC (Princess)\Desktop\MyStardewMods\FarmerBirthday\FarmerBirthday\bin\Debug\net8.0\FarmerBirthday.deps.json
+C:\Users\Kay\Dropbox\My PC (Princess)\Desktop\MyStardewMods\FarmerBirthday\FarmerBirthday\bin\Debug\net8.0\FarmerBirthday.dll
+C:\Users\Kay\Dropbox\My PC (Princess)\Desktop\MyStardewMods\FarmerBirthday\FarmerBirthday\obj\Debug\net8.0\FarmerBirthday.csproj.AssemblyReference.cache
+C:\Users\Kay\Dropbox\My PC (Princess)\Desktop\MyStardewMods\FarmerBirthday\FarmerBirthday\obj\Debug\net8.0\FarmerBirthday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kay\Dropbox\My PC (Princess)\Desktop\MyStardewMods\FarmerBirthday\FarmerBirthday\obj\Debug\net8.0\FarmerBirthday.AssemblyInfoInputs.cache
+C:\Users\Kay\Dropbox\My PC (Princess)\Desktop\MyStardewMods\FarmerBirthday\FarmerBirthday\obj\Debug\net8.0\FarmerBirthday.AssemblyInfo.cs
+C:\Users\Kay\Dropbox\My PC (Princess)\Desktop\MyStardewMods\FarmerBirthday\FarmerBirthday\obj\Debug\net8.0\FarmerBirthday.csproj.CoreCompileInputs.cache
+C:\Users\Kay\Dropbox\My PC (Princess)\Desktop\MyStardewMods\FarmerBirthday\FarmerBirthday\obj\Debug\net8.0\FarmerBirthday.dll

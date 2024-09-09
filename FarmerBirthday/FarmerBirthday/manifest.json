@@ -1,0 +1,10 @@
+{
+    "Name": "[DLL] FarmerBirthday",
+    "Author": "KayMHN",
+    "Version": "1.0.0",
+    "Description": "gives the player a birthday",
+    "UniqueID": "KayMHN.FarmerBirthday",
+    "EntryDll": "FarmerBirthday.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": []
+}
